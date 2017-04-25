@@ -297,7 +297,7 @@ nav.navbar.navbar-default {
     color: #fff;
     font-size: 28px;
     text-transform: uppercase;
-    text-decoration: line-through;
+    text-decoration: none;
 	letter-spacing: 2px;
 }
 .wthree_banner_info_grid h3{
@@ -311,7 +311,7 @@ nav.navbar.navbar-default {
     color: #fff;
     font-size: 32px;
     text-transform: uppercase;
-    text-decoration: line-through;
+    text-decoration: none;
 	letter-spacing: 2px;
 }
 /*-- //banner --*/
@@ -545,7 +545,7 @@ p.w3l {
     letter-spacing: 4px;
     text-transform: uppercase;
     text-align: center;
-    text-decoration: line-through;
+    text-decoration: none;
 }
 .what-grid {
     padding-right: 130px;
