@@ -34,7 +34,7 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left2 a,.w3agile_s
 }
 /*-- banner --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/banner3.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -148,7 +148,7 @@ nav.navbar.navbar-default {
 .agile_short_dropdown > li > a:hover{
     color: #fff;
     text-decoration: none;
-    background-color: #00f1ff;
+    background-color: #DCDCDC;
 }
 /*-- nav-effect --*/
 .menu__list {
@@ -193,7 +193,7 @@ nav.navbar.navbar-default {
 }
 
 .menu--iris .menu__item--current .menu__link,.menu__link:hover {
-	color:#00f1ff;
+	color:#DCDCDC;
 }
 
 .menu--iris .menu__link::before,
@@ -203,7 +203,7 @@ nav.navbar.navbar-default {
 	width: 10px;
 	height: 10px;
 	opacity: 0;
-	border: 2px solid #00f1ff;
+	border: 2px solid #DCDCDC;
 	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
 	transition: transform 0.3s, opacity 0.3s;
 	-webkit-transition-timing-function: cubic-bezier(0.17, 0.67, 0.05, 1.29);
@@ -243,7 +243,7 @@ nav.navbar.navbar-default {
 }
 .agileits-contact-info ul li span {
     margin-right: 10px;
-    color: #00f1ff;
+    color: #DCDCDC;
 }
 .agileits-contact-info ul li:nth-child(2) {
     margin-left: 25px;
@@ -531,7 +531,7 @@ p.w3l {
     border-radius: 50%;
     line-height: 60px;
     text-align: center;
-    background: #00f1ff;
+    background: #DCDCDC;
     color: #fff;
 }
 .what-top1 {
@@ -539,7 +539,7 @@ p.w3l {
 }
 .w3ls_head {
     font-size: 36px;
-    color: #00f1ff;
+    color: #9A2533;
     font-weight: 600;
     margin-bottom: 20px;
     letter-spacing: 4px;
@@ -552,7 +552,7 @@ p.w3l {
 }
 .what-agile-info {
     margin-top: 30px;
-    border-left: 3px solid #00f1ff;
+    border-left: 3px solid #DCDCDC;
     padding: 0 0px 0 20px;
 }
 p.w3agile {
@@ -589,7 +589,7 @@ p.w3agile {
     text-transform: capitalize;
 }
 .footer li a:hover{
-    color: #00f1ff;
+    color: #DCDCDC;
 }
 .newsletter {
     position: relative;
@@ -616,7 +616,7 @@ p.w3agile {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: absolute;
-	background-color: #00f1ff;
+	background-color: #DCDCDC;
 	top: 0;
 	right: 0;
 	outline:none;
@@ -636,7 +636,7 @@ p.w3agile {
 }
 .w3ls-social-icons i:hover,.w3ls-social i:hover {
 	background: transparent;
-	background:#00f1ff;
+	background:#DCDCDC;
 	color:#fff;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -674,7 +674,7 @@ p.w3agile {
 }
 .copy-right-agile p a {
     text-decoration: none;
-    color: #00f1ff;
+    color: #DCDCDC;
 }
 .copy-right-agile p a:hover{
     text-decoration: none;
@@ -695,7 +695,7 @@ p.w3agile {
 	bottom: 20px;
 	right: 2%;
 	overflow: hidden;
-	z-index: 9999; 
+	z-index: 9999;
 	width: 32px;
 	height: 28px;
 	border: none;
@@ -733,7 +733,7 @@ p.w3agile {
     -ms-transition: 0.5s all;
     -moz-transition: 0.5s all;
     cursor: pointer;
-} 
+}
 .icon-box:hover {
     background: #000;
 	transition:0.5s all;
@@ -752,11 +752,11 @@ p.w3agile {
     float: left;
     width: 12.5%;
     height: 115px;
-    padding: 10px; 
+    padding: 10px;
     line-height: 1.4;
-    text-align: center;  
+    text-align: center;
     font-size: 12px;
-    list-style-type: none;	
+    list-style-type: none;
 }
 .codes .bs-glyphicons .glyphicon {
     margin-top: 5px;
@@ -774,7 +774,7 @@ p.w3agile {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	color: #777;
-} 
+}
 .codes .bs-glyphicons .glyphicon-class {
     display: block;
     text-align: center;
@@ -831,7 +831,7 @@ h3.agileits-icons-title {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	color: #777;
-} 
+}
 .bs-glyphicons .glyphicon-class {
     display: block;
     text-align: center;
@@ -942,7 +942,7 @@ li.list-group-item1 {
 .label {
 	font-weight: 300 !important;
 	border-radius:4px;
-}  
+}
 .grid_5{
 	background:none;
 	padding:2em 0;
@@ -1361,7 +1361,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 	transition:0.5s all;
 }
 .contact-right-w3-agile input[type="text"]:hover {
-	border-color:#00f1ff;
+	border-color:#fff;
 	-webkit-transition:0.5s all;
 	-o-transition:0.5s all;
 	-moz-transition:0.5s all;
@@ -1387,7 +1387,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 	transition:0.5s all;
 }
 .contact-right-w3-agile textarea:hover {
-	border-color:#00f1ff;
+	border-color:#fff;
 	-webkit-transition:0.5s all;
 	-o-transition:0.5s all;
 	-moz-transition:0.5s all;
@@ -1411,8 +1411,8 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 }
 .contact-right-w3-agile form input[type="submit"]:hover {
 	color:#fff;
-	background:#00f1ff;
-	border: 2px solid #00f1ff;
+	background:#A9A9A9;
+	border: 2px solid #A9A9A9;
 	-webkit-transition:0.5s all;
 	-o-transition:0.5s all;
 	-moz-transition:0.5s all;
@@ -1857,7 +1857,7 @@ ul.social-icons li {
     letter-spacing: 2px;
 }
 .w3ls_courses_left_grid h3 i{
-	color:#00f1ff;
+	color:#DCDCDC;
 	padding-right:1em;
 }
 .w3ls_courses_left_grid p{
@@ -2608,7 +2608,7 @@ p.w3layouts_para {
 .agile_services_grid {
     text-align: center;
     padding: 0;
-} 
+}
 .choose {
     padding: 2em 0;
 }
@@ -2639,4 +2639,49 @@ p.w3layouts_para {
 .map iframe {
     min-height: 250px;
 }
+}
+
+
+
+#logo {
+    height: 100px;
+}
+
+#header-title {
+    color:#fff;
+    font-size: 1rem;
+    margin-left: 40px;
+}
+
+
+#logo,#header-title {
+    margin-left: 60px;
+}
+
+.fees {
+    display: flex;
+flex-direction: column;
+
+}
+
+.fees p {
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 800px;
+    margin-right: 800px;
+    line-height: 30px;
+}
+
+#logo-title {
+    margin-left: 20px;
+}
+
+#testim {
+    color: #DCDCDC;
+}
+
+.contact {
+    background-color: #DCDCDC;
 }
